@@ -9,5 +9,6 @@ public class Gitclass {
         System.out.println("hello git4");
         System.out.println("hot - fix text");
         System.out.println("push   text");
+        System.out.println("push   text");
     }
 }
